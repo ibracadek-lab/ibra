@@ -1,0 +1,111 @@
+*{
+    box-sizing: border-box;
+}
+.title{
+ padding: 60px;
+ text-align: center;
+ background: linear-gradient(to right,#1a3a6b, #3a6bbf, #1a3a6b);
+ color: white;
+ font-size: 40px;
+ font-weight: bold;
+ text-shadow: 3px 2px 4px red;
+ text-transform: uppercase;
+  
+}
+.qoraal{
+    background: #416ee9;
+    box-shadow: 4px 3px 10px white;
+    border-radius: 20px;
+    font-size: medium;
+    padding: 10px;
+    text-shadow: none;
+}
+body{
+    background-color: #f1f1f1f0;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: white;
+    box-shadow: 1px 1px 10px red;
+
+}
+.lingi{
+    background-color: #c7d8fc;
+    padding: 15px;
+    margin:20px 20px;
+    float: left;
+    height: 518px;
+    width: 200px;
+    border-right: dashed;
+    border-color:#3467f2;
+    margin-left: auto;
+    padding: 10px;
+    text-align: center;
+    margin-top: -27px;
+}
+    
+.nav h2{
+    margin-bottom: 4px 4px dotted blue;
+}  
+.lingi h2{
+    border: 5px 4px dotted blue;
+}  
+
+a{
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+    border: 4px  dotted #3467f2;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    color: black;
+    border-radius: 15px;
+    font-size: 10px;
+    box-shadow: 5px 5px 4px red;
+    text-shadow: 2px 2px 6px red;
+    
+
+}
+.labaad{
+    font-weight: bold;
+    color: #1a3a6b;
+    font-size: 20px;
+    margin-top: 10px;
+    border-bottom: 2px solid #3467f2;
+    padding: 10px;
+    margin-left: 20%;
+
+}
+.saddaxad{
+    text-shadow: 2px 2px 2px red;
+    color: #1a3a6b;
+}
+.dhamman{
+  border: 1px solid #3467f2;
+  background-color: rgb(219, 230, 249);
+  padding: 5px;
+  border-radius: 15px;
+  border-color: blue;
+  margin: 20px;
+  box-shadow: 5px 5px 6px red;
+  margin-right: 50%;
+  margin-left: 220px;
+  width: 800px;
+
+}
+.dhaman{
+    height: 60%;
+    margin-bottom: 6.9%;
+}
+.Hoos{
+   
+      background: linear-gradient(to right, #1a3a6b, #0e2450);
+      color: #ddeeff;
+      text-align: center;
+      padding: 10px;
+      font-weight: bold;
+    font-size: 20px;
+}
+
+
+
